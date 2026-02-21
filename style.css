@@ -267,7 +267,7 @@
     }
 
     .grad{
-        width: 50%;
+        width: 400px;
     }
 
     .body,
@@ -282,7 +282,7 @@
 
     .body-paragraph{
         width: 100%;
-        font-size: 4vw;
+        font-size: 28px;
         text-align: center;
     }
 
@@ -305,7 +305,7 @@
     }
 
     .second-head{
-        font-size: 6vw;
+        font-size: 56px;
         font-weight: 100;
     }
 
@@ -316,7 +316,7 @@
 
     .usc-ces,
     .thumbnail{
-        height: 46vh;
+        height: 50vh;
         width: 46vw;
     }
 
